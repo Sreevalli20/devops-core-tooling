@@ -1,4 +1,4 @@
-def get_dashboard():
+def get_user_dashboard():
     return {
         "title": "User Dashboard",
         "status": "active"
@@ -6,4 +6,4 @@ def get_dashboard():
 
 
 if __name__ == "__main__":
-    print(get_dashboard())
+    print(get_user_dashboard())
