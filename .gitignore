@@ -1,0 +1,10 @@
+.env
+secrets.json
+.DS_Store
+Thumbs.db
+__pycache__/
+node_modules/
+dist/
+*.pyc
+.venv/
+venv/
